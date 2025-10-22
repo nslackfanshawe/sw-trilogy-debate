@@ -3,7 +3,7 @@ A repo with the code for a website based on an argument between whether the Orig
 
 ## Team Members
 - Nicholas Slack – Arguing for the Original Trilogy 
-- Gavin <!--Just realized idk your last name sorry about that--> – Arguing for the Prequel Trilogy 
+- Gavyn Karl – Arguing for the Prequel Trilogy
 
 
 ## Branch Structure
