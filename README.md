@@ -3,11 +3,11 @@ A repo with the code for a website based on an argument between whether the Orig
 
 ## Team Members
 - Nicholas Slack – Arguing for the Original Trilogy 
-- Gavin <!--Just realized idk your last name sorry about that--> – Arguing for the Prequel Trilogy 
+- Gavin Karl – Arguing for the Prequel Trilogy 
 
 
 ## Branch Structure
 - dev.ns.OT – OT Argument
-- dev.g.PT – Preuqels Argument
+- dev.gk.PT – Prequels Argument
 - main – Final merged version
 
